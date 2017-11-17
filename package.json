@@ -7,7 +7,7 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "bin": {
-    "react-ref-string-to-callback": "bin/codemod"
+    "react-ref-string-to-callback": "./bin/codemod"
   },
   "author": "",
   "license": "ISC",
