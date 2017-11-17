@@ -12,6 +12,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "babel-codemod": "^1.2.0"
+    "babel-codemod": "^1.2.0",
+    "react": "^16.1.1"
   }
 }
