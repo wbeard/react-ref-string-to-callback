@@ -1,0 +1,17 @@
+{
+  "name": "react-ref-string-to-callback",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "react-ref-string-to-callback": "bin/codemod"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "babel-codemod": "^1.2.0"
+  }
+}
